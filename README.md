@@ -1,6 +1,6 @@
 # MTG Deck Scraper
 
-This repository contains a Python notebook designed for scraping and analyzing Magic: The Gathering (MTG) deck data. The notebook uses web scraping techniques to extract deck details, including card information, deck compositions, and metadata, from MTG Goldfish.
+This repository contains a Python notebook for scraping and analyzing Magic: The Gathering (MTG) commander deck data. The information is from MTG Goldfish and 
 
 ## Features
 
