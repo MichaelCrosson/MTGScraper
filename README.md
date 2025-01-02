@@ -1,4 +1,6 @@
-# MTG Deck Scraper
+# MTG Commander Deck Compiler + Scraper
+
+Input your desired commander and get a list of cards people have used to create decks with them. 
 
 This repository contains a Python notebook for scraping and analyzing Magic: The Gathering (MTG) commander deck data. The information is from MTG Goldfish and outputs a final decklist in the following format:
 
@@ -8,7 +10,7 @@ This repository contains a Python notebook for scraping and analyzing Magic: The
 
 etc.
 
-Copy and paste the output file into MTG Goldfish and edit your deck to your prefrence.
+Copy and paste the output file into MTG Goldfish and edit your deck to your preference.
 
 ## Features
 
