@@ -1,6 +1,10 @@
 # MTG Deck Scraper
 
-This repository contains a Python notebook for scraping and analyzing Magic: The Gathering (MTG) commander deck data. The information is from MTG Goldfish and 
+This repository contains a Python notebook for scraping and analyzing Magic: The Gathering (MTG) commander deck data. The information is from MTG Goldfish and outputs a final decklist in the following format:
+1 Lightning Bolt
+1 Dina, Soul Steeper
+etc.
+Copy and paste the output file into MTG Goldfish and edit your deck to your prefrence.
 
 ## Features
 
